@@ -1,0 +1,59 @@
+
+
+h2 {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Slider */
+  
+  
+  .slick-slide {
+    margin: 0px 20px;
+   
+   
+  
+  
+  }
+  
+  
+  .slick-slide img {
+    width: 100%;
+  
+  
+  }
+  
+  .slick-slider {
+    border: 1px solid rgba(63, 185, 189, .618);
+    box-shadow: 0px 0px 15px -2px #c5c5c5;
+    width: 85%;
+    margin: 0 auto;
+  
+  
+  }
+  
+  
+  .slick-track {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+  
+  }
+  
+  @media screen and (max-width:920px)  {
+
+    .slick-slider{
+      width: 100%;
+    }
+
+
+    
+  }
+  
+  
+  
+  
+  
+  
